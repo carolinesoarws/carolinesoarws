@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @carolinesoarws
 - 👀 I’m interested in learn more
-- 🌱 Software Enginner and Python developer
+- 🌱 Software Enginner with data engineering focus 
 - 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me karol.siva@hotmail.com
 
