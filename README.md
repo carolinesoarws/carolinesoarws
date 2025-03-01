@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @carolinesoarws
 - 👀 I’m interested in learn more
-- 🌱 Software Enginner with data engineering focus 
+- 🌱 Software Enginner currently developing solutions with gan ai 
 - 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me karol.siva@hotmail.com
 
